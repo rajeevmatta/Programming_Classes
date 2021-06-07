@@ -7,7 +7,7 @@ class A
 
    A(int x)
   {
-   System.out.println("A-int parameterized construcor");
+   System.out.println("A-int parameterized Rajeev construcor");
 
 }   
 }
